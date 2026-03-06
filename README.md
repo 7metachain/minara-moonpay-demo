@@ -1,5 +1,9 @@
 # Card-to-Autopilot PoC
 
+<p align="center">
+  <img src="assets/banner.png" alt="Card-to-Autopilot PoC" width="100%" />
+</p>
+
 > Minara x MoonPay integration demo — from credit card deposit to AI-managed trading workflow in one flow.
 
 [![Next.js](https://img.shields.io/badge/Next.js-16-black?logo=next.js)](https://nextjs.org/)
